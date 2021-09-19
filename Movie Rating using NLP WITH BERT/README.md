@@ -1,0 +1,1 @@
+In this project, we have load the various reactions (positive and negative) of users after watching certain movies and trained this model using "Bert for Sentiment Analysis". After training it, we got an accuracy of over 94% on test set. So this model can be used in predicting rating of movie(like in IMDB), as it distinguish positive and negative comments.
